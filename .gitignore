@@ -1,0 +1,46 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Unity generated files
+*.csproj
+*.sln
+*.slnx
+*.docx
+*.DOCX
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity build output and debug data
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.ipa
+*.xcodeproj
+*.xcworkspace
+*_BurstDebugInformation_DoNotShip/
+Outputs/
+
+# IDE and OS files
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.tmp
+
+# Local agent/tooling config
+.claude/
+.mcp.json
