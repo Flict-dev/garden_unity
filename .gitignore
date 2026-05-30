@@ -44,3 +44,5 @@ Outputs/
 # Local agent/tooling config
 .claude/
 .mcp.json
+AGENTS.md
+CLAUDE.md
